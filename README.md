@@ -1,4 +1,3 @@
-
 # Password Generator 🔐
 
 A simple and responsive password generator built with React and Tailwind CSS.
