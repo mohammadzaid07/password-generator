@@ -12,7 +12,7 @@ A simple and responsive password generator built with React and Tailwind CSS.
 
 ## Demo
 
-Live demo: [https://mohammadzaid07.github.io/password-generator/]()
+Live demo: https://mohammadzaid07.github.io/password-generator/ 
 
 ## Technologies Used
 
